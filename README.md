@@ -7,7 +7,7 @@ Knobs can changed by moving mouse, keyboard (← ↑ → ↓ ),  mousewheel and 
 Navigate trough knobs by tab key
 
 ## Example
-http://eskimoblood.github.com/jim-knopf/
+http://eskimoblood.github.io/jim-knopf/
 
 [![Build Status](https://secure.travis-ci.org/eskimoblood/jim-knopf.png?branch=master)](https://travis-ci.org/eskimoblood/jim-knopf)
 
